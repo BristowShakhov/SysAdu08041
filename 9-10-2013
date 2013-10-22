@@ -1,0 +1,12 @@
+VMWare Key: H462J-02110-68J40-080A2-2EW62
+
+9/10/2013
+ - Gateway Server (Centos)              192.168.0.1
+    - Ethernet p3p2 interface configured with static IP (Inetnal Network, 192.168.0.1)
+    - Ethernet p3p1 interface configured with static IP (Internet)
+ - VMWare Server (ESXI)
+    - Installed Hypervisor software
+ - Windows Client
+    - Installed Windows 7 Pro.
+       - Activated with MSDNAA key
+      
